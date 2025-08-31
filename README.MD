@@ -12,7 +12,7 @@ This project presents a fully normalized MySQL database system for managing trai
 
 This diagram illustrates the relationships between entities such as Filenames, Traits, Students, Schedules, Users, Seats, and Bookings. It shows how foreign keys connect the system and supports normalization and query efficiency.
 
-![ERD Diagram 1](./docs/erd_diagram1.png)
+![ERD Diagram 1](erd_diagram1.png)
 
 ---
 
@@ -20,7 +20,7 @@ This diagram illustrates the relationships between entities such as Filenames, T
 
 This ERD represents the structure of a transportation booking system. It includes entities such as `Trains`, `Schedules`, `Stations`, `Users`, `Seats`, `Booking`, and `Release`, with clear foreign key relationships and timestamp tracking.
 
-![ERD Diagram 2](./docs/erd_diagram2.jpg)
+![ERD Diagram 2](erd_diagram2.jpg)
 
 ---
 
@@ -28,7 +28,7 @@ This ERD represents the structure of a transportation booking system. It include
 
 This diagram illustrates the infrastructure connecting the London Data Center and Liverpool Office via VPN. It includes servers, firewalls, switches, and both wired and wireless client devices, showcasing secure and scalable deployment.
 
-![Network Diagram 1](./docs/network_diagram1.png)
+![Network Diagram 1](network_diagram1.png)
 
 ---
 
@@ -36,7 +36,7 @@ This diagram illustrates the infrastructure connecting the London Data Center an
 
 This diagram presents a layered network architecture for the Online Railway Reservation System. It includes segmented server roles (Web, App, DB), firewalls, routers, and a client-side network with both wired and wireless devices. It also shows cloud integration for external access and scalability.
 
-![Network Topology](./docs/network_topology.png)
+![Network Topology](docs/network_topology.png)
 
 ---
 
@@ -44,7 +44,7 @@ This diagram presents a layered network architecture for the Online Railway Rese
 
 This screenshot shows the SQL table creation statements for the Online Railway Reservation System. It includes tables for trains, stations, schedules, seats, users, bookings, and file metadata, with appropriate data types, constraints, and foreign key relationships.
 
-![SQL Schema](./docs/schema.png)
+![SQL Schema](schema.png)
 
 ---
 
