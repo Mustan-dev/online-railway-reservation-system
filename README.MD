@@ -138,24 +138,8 @@ Many-to-one relationships (e.g., Booking → User)
 
 Foreign key constraints for relational integrity
 
-
 ---
 
-## 🖧 Deployment Infrastructure
-
-The system is designed to operate across a secure, multi-site network:
-
-London Data Center hosts core services (App, Web, DB, DNS)
-
-Liverpool Office accesses services via VPN
-
-Firewalls and routers segment traffic and enforce security
-
-Wireless and wired clients support diverse user access
-
-
-
----
 
 ## 🧪 Dummy Data Snapshot
 
@@ -179,7 +163,6 @@ Wireless and wired clients support diverse user access
 ## 🧠 Personal Reflection
 
 This project deepened my understanding of database normalization, system architecture, and security integration. Literature review insights—from microservices to blockchain and edge computing—helped shape the design. The experience reinforced the importance of planning, documentation, and user-centric design in building scalable systems.
-
 ---
 ## 📖 License
 
@@ -195,10 +178,10 @@ GitHub: [github.com/Mustan-dev](https://github.com/Mustan-dev)
 
 ## 🚀 Future Enhancements
 
-Add Payments table for transaction tracking
+💳 Add Payments table for transaction tracking
 
-Implement role-based access for admins
+🔐 Implement role-based access for admins
 
-Integrate with smart city APIs for real-time routing
+🌐 Integrate with smart city APIs for real-time routing
 
-Build frontend interface for passenger interaction
+🖥️ Build frontend interface for passenger interactionn
