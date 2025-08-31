@@ -138,7 +138,6 @@ Many-to-one relationships (e.g., Booking → User)
 
 Foreign key constraints for relational integrity
 
-📁 See /docs/ERD.png for full diagram
 
 ---
 
@@ -154,11 +153,11 @@ Firewalls and routers segment traffic and enforce security
 
 Wireless and wired clients support diverse user access
 
-📁 See /docs/network_topology.png for full diagram
+
 
 ---
 
-## ## 🧪 Dummy Data Snapshot
+## 🧪 Dummy Data Snapshot
 
 ### 🚆 Train Information
 
