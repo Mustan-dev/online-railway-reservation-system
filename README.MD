@@ -163,7 +163,10 @@ Foreign key constraints for relational integrity
 ## 🧠 Personal Reflection
 
 This project deepened my understanding of database normalization, system architecture, and security integration. Literature review insights—from microservices to blockchain and edge computing—helped shape the design. The experience reinforced the importance of planning, documentation, and user-centric design in building scalable systems.
+
 ---
+
+
 ## 📖 License
 
 This project is licensed under the [MIT License](LICENSE) and is intended for educational and portfolio use.
