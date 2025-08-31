@@ -51,6 +51,7 @@ Use the included queries to test search, booking, and update operations.
 ---
 
 ## 📦 Database Entities
+
 ```bash
 Entity	Description
 Filename	Metadata about system-related files
@@ -62,6 +63,7 @@ User	Registered users with login credentials
 Booking	Reservation records linked to users, seats, and schedules
 Schedule_Train	Resolves transitive dependency between booking and train 
 ```
+
 ---
 
 ## 📜 License
