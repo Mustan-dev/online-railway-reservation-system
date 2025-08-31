@@ -65,8 +65,9 @@ Use the included queries to test search, booking, and update operations.
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License. You are free to use, modify, and distribute this work with proper attribution.
+## 📖 License
+
+This project is licensed under the [MIT License](LICENSE) and is intended for educational and portfolio use.
 
 ---
 
