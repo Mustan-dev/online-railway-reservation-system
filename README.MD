@@ -50,19 +50,18 @@ Use the included queries to test search, booking, and update operations.
 
 ---
 
-## 📦 Database Entities
+## 📦 Entity Descriptions
 
-```bash
-Entity	Description
-Filename	Metadata about system-related files
-Trains	Train details including type and seat capacity
-Stations	Station names and locations
-Schedules	Train routes and timings
-Seats	Seat availability and coach info
-User	Registered users with login credentials
-Booking	Reservation records linked to users, seats, and schedules
-Schedule_Train	Resolves transitive dependency between booking and train 
-```
+| Entity           | Description                                      |
+|------------------|--------------------------------------------------|
+| Filename         | Metadata about system-related files              |
+| Trains           | Train details including type and seat capacity   |
+| Stations         | Station names and locations                      |
+| Schedules        | Train routes and timings                         |
+| Seats            | Seat availability and coach info                 |
+| User             | Registered users with login credentials          |
+| Booking          | Reservation records linked to users, seats, and schedules |
+| Schedule_Train   | Resolves transitive dependency between booking and train |
 
 ---
 
