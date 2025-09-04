@@ -1,8 +1,7 @@
 # 🚆 Online Railway Reservation System (ORRS)
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
-
+![MySQL](https://img.shields.io/badge/Database-MySQL-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Completed-brigshtgreen.svg)
 
 
 ## 📌 Overview
