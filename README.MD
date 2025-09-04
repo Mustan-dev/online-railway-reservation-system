@@ -3,8 +3,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![Status: Completed](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-
-
 ## 📌 Overview
 
 The **Online Railway Reservation System (ORRS)** is a fully normalized MySQL database project developed by **Mustan** as part of the SWE4203 Databases module. It models real-world railway operations, focusing on secure, scalable, and efficient data management for train schedules, passenger bookings, seat availability, and system metadata.
